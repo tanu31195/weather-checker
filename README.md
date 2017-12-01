@@ -1,2 +1,2 @@
 # weather-checker
-Check the weather
+Simple weather checker using php web scraping
